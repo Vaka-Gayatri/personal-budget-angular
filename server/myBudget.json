@@ -1,6 +1,6 @@
 [ {
     "title": "Eat out",
-    "budget": 50
+    "budget": 130
 },
 {
     "title": "Rent",
@@ -8,11 +8,11 @@
 },
 {
     "title": "Grocery",
-    "budget": 110
+    "budget": 125
 },
 {
     "title": "Entertainment",
-    "budget": 50
+    "budget": 150
 },
 {
     "title": "University Fee",
@@ -20,18 +20,11 @@
 },
 {
     "title": "Water bill",
-    "budget": 70
+    "budget": 140
 },
 {
     "title": "Car EMI",
     "budget": 800
-},
-{
-    "title": "Transportation expenses",
-    "budget": 150
-},
-{
-    "title": "Electricity bill",
-    "budget": 80
 }
+
 ]
